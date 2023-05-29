@@ -1,0 +1,7 @@
+C:\Users\MuratKarakus\source\repos\AreaCalculator\AreaCalculator\bin\Debug\AreaCalculator.exe.config
+C:\Users\MuratKarakus\source\repos\AreaCalculator\AreaCalculator\bin\Debug\AreaCalculator.exe
+C:\Users\MuratKarakus\source\repos\AreaCalculator\AreaCalculator\bin\Debug\AreaCalculator.pdb
+C:\Users\MuratKarakus\source\repos\AreaCalculator\AreaCalculator\obj\Debug\AreaCalculator.csproj.AssemblyReference.cache
+C:\Users\MuratKarakus\source\repos\AreaCalculator\AreaCalculator\obj\Debug\AreaCalculator.csproj.CoreCompileInputs.cache
+C:\Users\MuratKarakus\source\repos\AreaCalculator\AreaCalculator\obj\Debug\AreaCalculator.exe
+C:\Users\MuratKarakus\source\repos\AreaCalculator\AreaCalculator\obj\Debug\AreaCalculator.pdb
